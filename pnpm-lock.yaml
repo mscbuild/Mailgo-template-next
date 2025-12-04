@@ -6,7 +6,7 @@ specifiers:
   eslint: 8.33.0
   eslint-config-next: 13.1.6
   framer-motion: ^9.0.3
-  next: 13.1.6
+  next: 15.0.5
   postcss: ^8.4.21
   react: 18.2.0
   react-dom: 18.2.0
