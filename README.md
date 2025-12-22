@@ -1,6 +1,6 @@
 # Manage your email marketing using AI (Nextjs)
  
- <img width="378" height="238" alt="image" src="https://github.com/user-attachments/assets/4aa815e0-03ab-42e6-9ba8-d64a54fb74ef" />
+ <img width="378" height="238" alt="mscbuild" src="https://github.com/user-attachments/assets/4aa815e0-03ab-42e6-9ba8-d64a54fb74ef" />
 
 
 ## Getting Started
